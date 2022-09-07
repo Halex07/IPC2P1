@@ -1,0 +1,25 @@
+<pacientes>
+    <paciente nombre="1">
+        <datospersonales>
+            <nombre>Nombre </nombre>
+            <edad>3</edad>
+        </datospersonales>
+        <posicioninicio>
+            <x>1</x>
+            <y>1</y>
+        </posicioninicio>
+        <posicionfin>
+            <x>3</x>
+            <y>3</y>
+        </posicionfin>
+        <celda f="1" c="1"></celda> 
+        <celda f="1" c="2"></celda> 
+        <celda f="1" c="3"></celda> 
+        <celda f="2" c="1"></celda> 
+        <celda f="2" c="2"></celda> 
+        <celda f="2" c="3"></celda>
+        <celda f="3" c="1"></celda> 
+        <celda f="3" c="2"></celda> 
+        <celda f="3" c="7"></celda>  
+    </paciente> 
+</pacientes>
