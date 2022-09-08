@@ -62,8 +62,8 @@ def menu():
         print("""\n          ***   Menú Principal   ***\n          
         1. Cargar archivo
         2. Procesar archivo
-        3. Escribir archivo salida
-        4. Mostrar datos del estudiante
+        3. Generar archivo salida
+        4. Creditos
         5. Generar gráfica
         6. Salir""")
 
